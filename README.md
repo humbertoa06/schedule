@@ -11,6 +11,8 @@ Things you may want to cover:
 
 * Configuration
 
+To be able to run this project it is necessary to run the following commands
+
 ```
   bundle install
 ```
@@ -30,4 +32,12 @@ To be able to run the server it is necessary to run the following commands
 rake assets:precompile
 
 ./bin/dev
+```
+
+* Rspec
+
+To be able to run project's specs
+```
+bundle exec rspec
+
 ```
